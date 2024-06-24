@@ -21,4 +21,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tranthikimhuynh&show_icons=true&locale=en" alt="tranthikimhuynh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tranthikimhuynh&" alt="tranthikimhuynh" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranthikimhuynh&" alt="tranthikimhuynh" />
+  <img src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" alt="animated gif" width="250" />
+</p>
+
+
