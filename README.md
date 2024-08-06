@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tran Thi Kim Huỳnh (Camelia Tran)</h1>
-<h3 align="center">🌟 Welcome to my GitHub! I'm a software developer from VietNam who is passionate about technologies and innovation</h3>
+<h1>Hi 👋 Welcome to my GitHub , I am Camelia Tran </h1>
+<h3>🌟 I'm a software developer from VietNam who is passionate about technologies and innovation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tranthikimhuynh&label=Profile%20views&color=0e75b6&style=flat" alt="tranthikimhuynh" /> </p>
 <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif"/> </p>
