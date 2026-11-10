@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tranthikimhuynh.github.io">
-    <img src="./assets/sakura-terminal.svg" width="100%" alt="Camelia Tran — AI Engineer @ Bosch. Interested in RAG, agentic AI, LLM orchestration and edge computer vision." />
+    <img src="sakura-terminal.svg" width="100%" alt="Camelia Tran — AI Engineer @ Bosch. Interested in RAG, agentic AI, LLM orchestration and edge computer vision." />
   </a>
 </p>
 
